@@ -2,7 +2,7 @@
 
 > 浏览器端面试模拟工具 — 摄像头录制 / 计时器 / 语音实时转文字 / 文字稿导出。
 
-🔗 在线访问：[zhangwei6321-spec.github.io/biquge-novel-site](https://zhangwei6321-spec.github.io/biquge-novel-site/)
+🔗 在线访问：[zhangwei6321-spec.github.io/interview-practice](https://zhangwei6321-spec.github.io/interview-practice/)
 
 ---
 
@@ -54,7 +54,7 @@ open index.html
 
 > 在线算命大全 — 综合八字、紫微、称骨、星座、生肖、塔罗等 16 种传统测算。
 
-🔗 在线访问：[zhangwei6321-spec.github.io/biquge-novel-site/suandezhun/](https://zhangwei6321-spec.github.io/biquge-novel-site/suandezhun/)
+🔗 在线访问：[zhangwei6321-spec.github.io/interview-practice/suandezhun/](https://zhangwei6321-spec.github.io/interview-practice/suandezhun/)
 
 ## ✨ 功能
 
